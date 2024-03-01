@@ -14,7 +14,7 @@ I chose Striver's SDE Sheet because it's a comprehensive resource covering top c
 - Completed 6 problems related to arrays.
 - Explored brute force, better, and optimal solutions.
 - Added C++ code for each problem.
-- Commited and pushed to GitHub: [Day 1 - Arrays]((https://github.com/Unstable108/Striver-SDE-Sheet-30-Days/tree/main/Day%201))
+- Commited and pushed to GitHub: [Day 1 - Arrays](https://github.com/Unstable108/Striver-SDE-Sheet-30-Days/tree/main/Day%201)
 
 ### Day 2: Arrays Part-II
 - Planned and solved 6 additional array problems.
@@ -40,4 +40,4 @@ Stay tuned for daily updates as I conquer Striver's SDE Sheet one problem at a t
 
 Happy Coding! 🚀
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/debasish-das-092503149/) | [Follow my GitHub Repository]((https://github.com/unstable108/)https://github.com/unstable108/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/debasish-das-092503149/) || [Follow my GitHub Repository](https://github.com/unstable108/)
