@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Unstable/Desktop/Projects/DSA - Striver SDE Sheet/Day 2/Duplicate in Array",
-      "program": "c:/Users/Unstable/Desktop/Projects/DSA - Striver SDE Sheet/Day 2/Duplicate in Array/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
